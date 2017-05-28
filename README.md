@@ -1,5 +1,5 @@
 # Singularity-CRM
-An One Stop shop for a **Scalable Unified and Customized CRM System** built on top of Microservices.
+An One Stop shop for a **Scalable, Unified and Customized CRM System** built on top of Microservices.
 
 ## Target Users :
 
@@ -83,7 +83,7 @@ An One Stop shop for a **Scalable Unified and Customized CRM System** built on t
 * **Containers** - [Docker](https://www.docker.com/)
 * **Orchestration** - [Kubernetes](https://kubernetes.io/)
 * **Back-end** - [Django](https://www.djangoproject.com/)
-* **Front-end** - [ReactJS](https://facebook.github.io/react/)
+* **Front-end** - [ReactJS](https://facebook.github.io/react/) | [VueJS](https://vuejs.org/)
 * **Database** - [PostgreSQL](https://www.postgresql.org/)
 * **Visualization** - JavaScript Frameworks
 * **Analytics** - [GoLang](https://golang.org/) | [Julia](https://julialang.org/)
