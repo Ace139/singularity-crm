@@ -31,6 +31,7 @@ An One Stop shop for a **Scalable Unified and Customized CRM System** built on t
 * [ ] **TODO Planner** : Sales Executive | Manager | Employees
 * [ ] **Analytics/Insights** : Sales Executive | Manager
 * [ ] **Group Formation** : Prospect | Customer | Sales Executive | Manager | Employees
+* [ ] **Multi-role Provision** : Manger | Employee | Sales Executive
 
 
 ## Details : 
