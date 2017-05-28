@@ -9,16 +9,73 @@ An One Stop shop for a **Scalable Unified and Customized CRM System** built on t
 * Any company wanting to **Rebuild** existing CRM System from scratch with **customized features**.
 
 
+## Elements in CRM : 
+
+* Prospect
+* Customer
+* Product
+* Manager
+* Sales Executive
+* Employee
+
+
 ## Features :
 
-* [ ] Profile : Prospect | Customer | Product | Sales Executive | Managers | Employees
-* [ ] Interactions : Prospect | Customer | Sales Executive | Managers | Employees
-* [ ] Billing/Payment/Salary : Customer | Sales Executive | Managers | Employees
-* [ ] Feedbacks : Customer | Sales Executive | Managers | Employees
-* [ ] Communication : Sales Executive | Managers | Employees
-* [ ] Event Schedular : Sales Executive | Managers | Employees
-* [ ] TODO Planner : Sales Executive | Managers | Employees
+* [ ] **Profile** : Prospect | Customer | Product | Sales Executive | Manager | Employees
+* [ ] **Interactions** : Prospect | Customer | Sales Executive | Manager
+* [ ] **Billing/Payment/Salary** : Customer | Sales Executive | Manager | Employees
+* [ ] **Feedbacks** : Prospect | Customer | Sales Executive | Manager | Employees
+* [ ] **Communication** : Sales Executive | Manager | Employees
+* [ ] **Tracker** : Customer | Sales Executive | Manager | Employees
+* [ ] **Event Schedular** : Sales Executive | Manager | Employees | Customer
+* [ ] **TODO Planner** : Sales Executive | Manager | Employees
+* [ ] **Analytics/Insights** : Sales Executive | Manager
+* [ ] **Group Formation** : Prospect | Customer | Sales Executive | Manager | Employees
 
+
+## Details : 
+
+* [ ] **Prospect** :
+    - [ ] Add | Modify | Delete | Details
+    - [ ] Interactions with Sales Executive
+    - [ ] Feedbacks
+* [ ] **Customer** : 
+    - [ ] Add | Modify | Delete | Details
+    - [ ] Interaction with Managers
+    - [ ] Product Tracker
+    - [ ] Billing
+    - [ ] Feedbacks
+    - [ ] Schedule Meetings
+* [ ] **Product** : 
+    - [ ] Add | Modify | Delete | Details
+    - [ ] Delivery & Manufacturing Schedule 
+* [ ] **Manager** :
+    - [ ] Add | Modify | Delete | Details
+    - [ ] Interactions with Customer
+    - [ ] Salary
+    - [ ] Payment
+    - [ ] Feedbacks on Sales Executive | Product | Customer | Employees
+    - [ ] Communications with Sales Executive | Employees
+    - [ ] Schedule Meetings
+    - [ ] TODO Planner
+    - [ ] Analytics
+    - [ ] Tracker on Progress
+* [ ] **Sales Executive** :
+    - [ ] Add | Modify | Delete | Details
+    - [ ] Interactions with Prospect
+    - [ ] Salary
+    - [ ] Feedbacks on Sales Executive | Prospect
+    - [ ] Communications with Managers
+    - [ ] Schedule Meetings
+    - [ ] TODO Planner
+    - [ ] Analytics
+    - [ ] Tracker on Progress
+* [ ] **Employee** :
+    - [ ] Add | Modify | Delete | Details
+    - [ ] Salary
+    - [ ] TODO
+    - [ ] Tracker on Progress
+    - [ ] Communication with Managers
 
 ## Technology Stack :
 
