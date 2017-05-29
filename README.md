@@ -1,6 +1,14 @@
 # Singularity-CRM
 An One Stop shop for a **Scalable, Unified and Customized CRM System** built on top of Microservices.
 
+* Fully Customized Material Design UI
+* Option to deploy in any Cloud Service of choice
+* Ease of customizing every component without writing any code
+* Option to choose from numerous services
+* Inbuilt Analytics Dashboard
+* API for accessing data for Analysis
+* Integrated Hybrid-Mobile application for all platforms
+
 ## Target Users :
 
 * Small and Medium scale Starups (**B2B** and **B2C**) having limited funding for investing in CRM.
