@@ -21,26 +21,65 @@ An One Stop shop for a **Scalable, Unified and Customized CRM System** built on 
 
 * Prospect
 * Customer
-* Product Development
-* Accounts
+* Product Developer
+* Accountant
 * Sales Executive
-* Employee
-* Service 
+* Manager
+* Support Personel
+* Product
 
 
 ## Features :
 
-* [ ] **Profile** : Prospect | Customer | Product | Sales Executive | Manager | Employees
-* [ ] **Interactions** : Prospect | Customer | Sales Executive | Manager
-* [ ] **Billing/Payment/Salary** : Customer | Sales Executive | Manager | Employees
-* [ ] **Feedbacks** : Prospect | Customer | Sales Executive | Manager | Employees
-* [ ] **Communication** : Sales Executive | Manager | Employees
-* [ ] **Tracker** : Customer | Sales Executive | Manager | Employees
-* [ ] **Event Schedular** : Sales Executive | Manager | Employees | Customer
-* [ ] **TODO Planner** : Sales Executive | Manager | Employees
-* [ ] **Analytics/Insights** : Sales Executive | Manager
-* [ ] **Group Formation** : Prospect | Customer | Sales Executive | Manager | Employees
-* [ ] **Multi-role Provision** : Manger | Employee | Sales Executive
+* [ ] **Profile** : It will contain all the details of a CRM element.
+
+(Prospect | Customer | Product | Sales Executive | Manager | Accountant | Product Developer)
+
+* [ ] **Interactions** : It will record interaction of company personels with the Prospects and Customer. Mainly,
+    - Prospects interact with Sales Executive
+    - Customer interact with Support Personel and sometimes Manager
+
+(Prospect | Customer | Sales Executive | Manager | Support Personel)
+
+* [ ] **Billing/Payment/Salary** : It will record and manage all the transactions. Like 
+    - Billing for the Customers
+    - Payment to the 3rd Party Services
+    -  Salary to all the employees
+
+(Customer | Sales Executive | Manager | Product Developer | Support Personel | Accountant)
+
+* [ ] **Feedbacks** : It will be for recording all the feedbacks from different elements of the CRM. Like
+    - Customer feedback on Product or Support
+    - Manager feedback on Employees, Customer
+    - Employee feedback on Manager etc.
+
+(Prospect | Customer | Sales Executive | Manager | Product Developer | Support Personel | Accountant)
+
+* [ ] **Communication** : It will be for internal communication of the company. Mode will be IM.
+
+(Sales Executive | Manager | Product Developer | Support Personel | Accountant)
+
+* [ ] **Tracker** : It will enable to track progress and activity. Like,
+    - Track production stage of Product
+    - Track product delivery to customer
+    - Track payments from customer and payments to employees
+(Customer | Sales Executive | Manager | Product Developer | Accountant | Product)
+
+* [ ] **TODO Schedular** : It will enable to schedule meetings and other activities in calender format with reminders
+
+(Sales Executive | Manager | Product Development | Accountant | Support Personel)
+
+* [ ] **Analytics/Insights** : It will provide with basic analytics (Need Clarity).
+
+(Sales Executive | Manager | Acountant)
+
+* [ ] **Group Formation** : It will enable to categorize elemnts of a CRM into groups on some basis.
+
+(Prospect | Customer | Sales Executive | Manager | Prooduct Developer)
+
+* [ ] **Multi-role Provision** : It will enable to assign multiple responsibilty to a single employee, especially applicable for startups.
+
+(Manger | Employee | Sales Executive | Accountant | Product Developer)
 
 
 ## Details : 
