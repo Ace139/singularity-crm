@@ -13,10 +13,11 @@ An One Stop shop for a **Scalable, Unified and Customized CRM System** built on 
 
 * Prospect
 * Customer
-* Product
-* Manager
+* Product Development
+* Accounts
 * Sales Executive
 * Employee
+* Service 
 
 
 ## Features :
@@ -40,19 +41,22 @@ An One Stop shop for a **Scalable, Unified and Customized CRM System** built on 
     - [ ] Add | Modify | Delete | Details
     - [ ] Interactions with Sales Executive
     - [ ] Feedbacks
+    - [ ] Sales Executive
+    - [ ] Manager
 * [ ] **Customer** : 
     - [ ] Add | Modify | Delete | Details
     - [ ] Interaction with Managers
     - [ ] Product Tracker
     - [ ] Billing
     - [ ] Feedbacks
-    - [ ] Schedule Meetings
+    - [ ] Interaction with Services or Support
 * [ ] **Product** : 
     - [ ] Add | Modify | Delete | Details
     - [ ] Delivery & Manufacturing Schedule 
+    - [ ] Analytics
 * [ ] **Manager** :
     - [ ] Add | Modify | Delete | Details
-    - [ ] Interactions with Customer
+    - [ ] Interactions with Everyone
     - [ ] Salary
     - [ ] Payment
     - [ ] Feedbacks on Sales Executive | Product | Customer | Employees
@@ -65,17 +69,16 @@ An One Stop shop for a **Scalable, Unified and Customized CRM System** built on 
     - [ ] Add | Modify | Delete | Details
     - [ ] Interactions with Prospect
     - [ ] Salary
-    - [ ] Feedbacks on Sales Executive | Prospect
+    - [ ] Feedbacks on Sales Customers
     - [ ] Communications with Managers
     - [ ] Schedule Meetings
     - [ ] TODO Planner
     - [ ] Analytics
     - [ ] Tracker on Progress
-* [ ] **Employee** :
+* [ ] **Accounts** :
     - [ ] Add | Modify | Delete | Details
     - [ ] Salary
-    - [ ] TODO
-    - [ ] Tracker on Progress
+    - [ ] Billing
     - [ ] Communication with Managers
 
 ## Technology Stack :
